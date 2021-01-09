@@ -1,9 +1,12 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-This repository is a notes for reading assignments of code 201 class.
+## Code 201 Reading Notes
 
-1. [Read: 01 - Introductory HTML and JavaScript]()
+**This repository is a notes for reading assignments of code 201 class.**
+
+_[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links){:target="\_blank"}_
+
+1. [Read: 01 - Introductory HTML and JavaScript](https://github.com/wpiao/reading-notes/blob/main/class-01.md){:target="\_blank"}
 2. [Read: 02]()
 3. [Read: 03]()
 4. [Read: 04]()
@@ -19,4 +22,4 @@ This repository is a notes for reading assignments of code 201 class.
 14. [Read: 14]()
 15. [Read: 15]()
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
