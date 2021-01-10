@@ -10,9 +10,9 @@ Key trends in cybersecurity
 2. Mobile environment
 3. Cloud technology environment
 
-Mitigate risk for home working environment
+Mitigate risk for the home-working environment
 
 1. Train employees
-2. Use VPN to securely connect to company network
-3. Use strong passowrd
-4. USe anti-virus software
+2. Use VPN to securely connect to the company network
+3. Use strong passowrds
+4. Use anti-virus software
