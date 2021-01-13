@@ -5,7 +5,7 @@
 **This repository is a notes for reading assignments of code 201 class.**
 
 1. [Read: 01 - Introductory HTML and JavaScript](https://github.com/wpiao/reading-notes/blob/main/class-01.md)
-2. [Read: 02]()
+2. [Read: 02 - HTML Text, CSS Introduction and Basic JavaScript](https://github.com/wpiao/reading-notes/blob/main/class-02.md)
 3. [Read: 03]()
 4. [Read: 04]()
 5. [Read: 05]()
