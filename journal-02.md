@@ -1,7 +1,7 @@
 # Journal-02 - 1/13/2021
 
 - git - version control system (VCS) - software
-- GitHub - A site/A place in cloud uses git software
+- GitHub - A site/A place in the cloud uses git software
 - git flow:
   1. create repo
   2. git clone `<url>`
@@ -11,8 +11,8 @@
   1. add: git add `<filename>`
   2. commit: git commit -m `<comments>`
   3. push: git push origin `<branch_name>`
-- Link css file to html - `<Link rel="stylesheet" href="<file_path>"`
-- Link js file to html - `<script src="<file_path>"></script>`
+- Link CSS file to HTML - `<Link rel="stylesheet" href="<file_path>"`
+- Link JS file to HTML - `<script src="<file_path>"></script>`
 
 Resources:
 
