@@ -2,9 +2,9 @@
 
 ## CSS Box Model
 
-- margin - outside of box
-- padding, border - inside of box
-- block elements - take whold width of window, stack on each other
+- margin - outside of the box
+- padding, border - inside of the box
+- block elements - take the whole width of the window, each block stack on each other
 - inline elements - placed in one line, left to right
 
 ```css
@@ -21,6 +21,6 @@ body {
   - access an element - `arrayOne[<index>]`
   - assign a value (5) to an array at index x - `arrayOne[x] = 5`
   - array method length - number of elements in the array
-- for loop - Instantiation, conditional statement, increment or decrement
-- while loop - if conditional is true then run code block
-- JS falsy values: 0, '', null, undefined, NaN
+- For loop - Instantiation, conditional statement, increment or decrement
+- While loop - if conditional is true then run the code block
+- JS falsy values - 0, '', null, undefined, NaN
