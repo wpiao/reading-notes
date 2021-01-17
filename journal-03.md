@@ -8,7 +8,7 @@
 - inline elements - placed in one line, left to right
 
 ```css
-<selector > {
+body {
   margin: auto; /* place the element in the center */
   box-sizing: border-box; /* use to include border in box width */
 }
