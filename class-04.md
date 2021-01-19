@@ -4,7 +4,7 @@
 
 1. Linking to other sites - `<a href="<url>">Other sites</a>`
 2. Linking to other pages on the same site = `<a href="<file path>">Other pages</a>`
-3. Relative URLS - shorthand way of telling the browswer where to find the files
+3. Relative URLs - a shorthand way of telling the browser where to find the files
 4. Email links - `<a href="mailto:<email address>">Email me</a>`
 5. Opening links in a new window - use `target="_blank"` attribute
 6. Linking to a specific part of the same page - use id for href attribute
