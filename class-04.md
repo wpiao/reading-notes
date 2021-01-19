@@ -1,4 +1,4 @@
-# Reading: 04 - HTML Links, JS Functions, and Intro to CSS Layout
+# Reading: 04 - HTML Links, JS Functions, and Intro to CSS Layout - 01/19/2021
 
 ## HTML Links
 
