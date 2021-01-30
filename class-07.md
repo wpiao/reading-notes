@@ -41,3 +41,34 @@
     };
     ```
 - Create an object with properties & methods  
+  1. Literal notation
+    ```JavaScript
+    const hotel = {
+      name: 'Quay',
+      rooms: 40,
+      booked: 25,
+      checkAvailability: function() {
+        return this.rooms - this.booked;
+      }
+    };
+    ```
+  2. Object constructor notation  
+    ```JavaScript
+    function Hotel(name, rooms, booked) {
+      this.name = name;
+      this.rooms = rooms;
+      this.booked = booked;
+      this.checkAvailability = function() {
+        return this.rooms - this.booked;
+      }
+    }
+    const quayHotel = new Hotel('Quay', 40, 25); // create an object
+    const parkHotel = new Hotel('Park', 120, 77); // create an object
+    ```
+- Delete a property - `delete hotel.name;`
+- This keyword - refer to parent object
+- Array - Also an object
+- Three groups of build-in objects  
+  1. Browser Object Model - `Window -> Document, History, Location, Navigator, Screen`  
+  2. Document Object Model (DOM)
+  3. Global JavaScript Objects - `STRING, NUMBER, BOOLEAN`
