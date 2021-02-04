@@ -1,1 +1,3 @@
 # Journal-08 - 2/3/2021 
+
+In lab-8a, I created a wireframe from the scratch. It was a fun and great CSS exercise. In lab-8b, I was working on styling the cookie-stand that already build in the last lab. I used `float` to position the elements. I don't like `float` because I have to carefully calculate the width, margin, padding to position the elements in the right place. But it is good to know how to use it since a lot of websites still use `float` to position the elements. I don't have any questions about the labs at this time. 
