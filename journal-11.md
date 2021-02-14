@@ -1,0 +1,3 @@
+# Journal-11 - 2/13/2021  
+
+The overall difficulty of this lab is midium. In this lab, I used the constructor function to create 20 objects and store them in an array. Each object holds some attributes of an image. I randomly selected three different objects in the array and used them to render three images in my image section. I added an event listener and an event handler to the image section so that when users click an image it will re-render the image section with three different random images. Users can vote for 25 rounds, after that the image section will not re-render upon clicking. Users can click the `View Result` button to show the results after they complete 25 rounds of votes.  
