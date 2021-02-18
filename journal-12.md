@@ -1,0 +1,3 @@
+# Journal-12 - 2/17/2021  
+
+In this lab, I removed the button and the `show results section` and add a chart to show the total views and total clicks after users complete the voting process. I imported the `chart.js` from MDN and used it to create a chart. It was our first name to use a tool/library from MDN in this course. `chart.js` is well-documented and has many example codes, so it was not hard to use it. 
