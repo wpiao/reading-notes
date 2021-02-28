@@ -13,12 +13,12 @@
 7. [Read: 07 - HTML Tables, JS Constructor Functions](https://github.com/wpiao/reading-notes/blob/main/class-07.md)
 8. [Read: 08 - More CSS Layout](https://github.com/wpiao/reading-notes/blob/main/class-08.md)
 9. [Read: 09 - Forms and JS Events](https://github.com/wpiao/reading-notes/blob/main/class-09.md)
-10. [Read: 10](https://github.com/wpiao/reading-notes/blob/main/class-10.md)
-11. [Read: 11](https://github.com/wpiao/reading-notes/blob/main/class-11.md)
-12. [Read: 12](https://github.com/wpiao/reading-notes/blob/main/class-12.md)
-13. [Read: 13](https://github.com/wpiao/reading-notes/blob/main/class-13.md)
-14. [Read: 14](https://github.com/wpiao/reading-notes/blob/main/class-14.md)
-15. [Read: 15](https://github.com/wpiao/reading-notes/blob/main/class-15.md)
+10. [Read: 10 - JS Debugging](https://github.com/wpiao/reading-notes/blob/main/class-10.md)
+11. [Read: 11 - Audio, Video, Images](https://github.com/wpiao/reading-notes/blob/main/class-11.md)
+12. [Read: 12 - Chart.js, Canvas](https://github.com/wpiao/reading-notes/blob/main/class-12.md)
+13. [Read: 13 - Local Storage](https://github.com/wpiao/reading-notes/blob/main/class-13.md)
+14. [Read: 14a - CSS Transforms, Transitions, and Animations](https://github.com/wpiao/reading-notes/blob/main/class-14a.md)
+15. [Read: 14b - What Google Learned About Teams](https://github.com/wpiao/reading-notes/blob/main/class-14b.md)
 
 _[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)_
 
