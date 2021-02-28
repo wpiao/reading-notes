@@ -1,0 +1,3 @@
+# Journal-15 - 2/27/2021  
+
+Today, I spent 5 hours with my team to prepare the final project. First, we had a deep discussion about the project planning and made a team agreement. We came up with a conflict plan, communication plan, work plan, and git process. We shared our project ideas and we decided to make an app that would recommend users a military branch and occupation based on their input and interest. 
