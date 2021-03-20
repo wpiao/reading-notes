@@ -3,6 +3,9 @@
 
 ## Code 301 - Intermediate Software Development 
 
+1. [ES6 classes](https://github.com/wpiao/reading-notes/blob/main/code-301/ES6-classes.md)
+2. [Read: 01 - Introduction to React and Components](https://github.com/wpiao/reading-notes/blob/main/code-301/read-01.md)
+
 ## Code 201 - Foundations of Software Development
 
 1. [Read: 01 - Introductory HTML and JavaScript](https://github.com/wpiao/reading-notes/blob/main/code-201/class-01.md)
