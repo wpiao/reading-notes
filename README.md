@@ -1,9 +1,9 @@
 # Reading Notes
 **This repository is the notes for reading assignments.**
 
-## Code 301 Reading Notes
+## Code 301 - Intermediate Software Development 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1. [Read: 01 - Introductory HTML and JavaScript](https://github.com/wpiao/reading-notes/blob/main/code-201/class-01.md)
 2. [Read: 02 - HTML Text, CSS Introduction and Basic JavaScript](https://github.com/wpiao/reading-notes/blob/main/code-201/class-02.md)
@@ -21,6 +21,6 @@
 14. [Read: 14a - CSS Transforms, Transitions, and Animations](https://github.com/wpiao/reading-notes/blob/main/code-201/class-14a.md)
 15. [Read: 14b - What Google Learned About Teams](https://github.com/wpiao/reading-notes/blob/main/code-201/class-14b.md)
 
-_[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)_
+## Code 102 - Intro to Software Development
 
-## Code 102 Reading Notes
+_[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)_
