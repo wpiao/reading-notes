@@ -2,7 +2,7 @@
 **Presenter: Chance Harmon**    
 **Topic: Intro to Web Scraping with Node.JS and Puppeteer**   
 
-Chance Harmon is code fellows graudate and he was talking about the web scraping. He used JS library Puppeteer with Node.JS to demonstrate the web scraping.    
+Chance Harmon is code fellows graduate and he was talking about the web scraping. He used JS library Puppeteer with Node.JS to demonstrate the web scraping.    
 
 1. Install the puppeteer    
     `npm i puppeteer`
@@ -32,7 +32,7 @@ Chance Harmon is code fellows graudate and he was talking about the web scraping
 
       // Scraping for multiple content and store it in an array
       let stats = await page.evaluate(() => {
-        return Array.from(<'target contet'>, element => element.textContent);
+        return Array.from(<'target content'>, element => element.textContent);
       })
       console.log(stats);
 
