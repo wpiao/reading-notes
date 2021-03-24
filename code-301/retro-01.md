@@ -1,0 +1,3 @@
+# Retro: 01 - React & Props - 03/23/2021  
+
+Lab-01 went well. I created the Header, Main, and Footer component and added them in the App component which is the top-level component. I created the HornedBeasts component and add three of them in the Main Component. The HornedBeasts component has three props - title, src, description and it receives data from parent/upper-level component and render it. I also completed the stretch goal and styling.
