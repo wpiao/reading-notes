@@ -2,4 +2,4 @@
 **Presenter: Monica McNeal**    
 **Topic: Linkedin**   
 
-Monica talked about Linkedin and walked through important Linkedin features. More than 95% of recruiters use Linkedin regularly, so it is a great tool to connet with recruiter/hiring manager or look for jobs. She demonstrated how to properly use filter to narrow down the job search result and it is very useful feature to learn.
+Monica talked about Linkedin and walked through important Linkedin features. More than 95% of recruiters use Linkedin regularly, so it is a great tool to connect with the recruiter/hiring manager or look for jobs. She demonstrated how to properly use filters to narrow down the job search result and it is a very useful feature to know.
