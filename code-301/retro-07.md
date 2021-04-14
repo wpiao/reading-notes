@@ -1,3 +1,3 @@
 Retro: 07 - Express, Heroku deployment - 4/13/2021    
 
-This lab went well. I used Express to create a back-end server for my React app that I built in previous lab. I set up an endpoint `/weather` in my Express server to responde a request from my React app. It returns weather data in `JSON` format to the client when requests are made in this endpoint. I deployed my express server to the Heroku and connect it to my front-end deployed in the Netlify.    
+This lab went well. I used Express to create a back-end server for my React app that I built in the previous lab. I set up an endpoint `/weather` in my Express server to respond to a request from my React app. It returns weather data in `JSON` format to the client when requests are made in this endpoint. I deployed my express server to the Heroku and connect it to my front-end deployed in the Netlify.    
