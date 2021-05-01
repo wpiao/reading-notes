@@ -26,7 +26,7 @@
 - 304 Not Modified
 - 307 Temporary Redirect
 
-3. UPDATE
+3. UPDATE  
    An update can be implemented with HTTP `PUT` or `PATCH` method. The difference lies in the amound of data the client has to send to the backend. `PUT` requires the client to send an entire representation of a resource to update it. (Replace the old one with the new one). `PATCH` requires the client only send parts of the representation of the resrouce to update it. (Add, update or delete these parts in the old version)
 
 - 200 OK
@@ -39,7 +39,7 @@
 - 204 No Content
 - 202 Accepted
 
-5. Errors
+5. Errors  
    Wrong URL
 
 - 404 Not Found
