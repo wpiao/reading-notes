@@ -1,24 +1,23 @@
 # Reading Notes
+
 **This repository is the notes for reading assignments.**
 
-## Code 301 - Intermediate Software Development 
+## Code 301 - Intermediate Software Development
 
 1. [ES6 classes](https://github.com/wpiao/reading-notes/blob/main/code-301/ES6-classes.md)
 2. [Read: 01 - Introduction to React and Components](https://github.com/wpiao/reading-notes/blob/main/code-301/read-01.md)
 3. [Read: 02 - React State and Props](https://github.com/wpiao/reading-notes/blob/main/code-301/read-02.md)
 4. [Read: 03 - Passing Functions as Props](https://github.com/wpiao/reading-notes/blob/main/code-301/read-03.md)
 5. [Read: 04 - React and Forms](https://github.com/wpiao/reading-notes/blob/main/code-301/read-04.md)
-6. [Read: 05 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-05.md)
-7. [Read: 06 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-06.md)
-8. [Read: 07 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-07.md)
-9. [Read: 08 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-08.md)
-10. [Read: 09 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-09.md)
-11. [Read: 10 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-10.md)
-12. [Read: 11 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-11.md)
-13. [Read: 12 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-12.md)
-14. [Read: 13 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-13.md)
-15. [Read: 14 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-14.md)
-16. [Read: 15 - TBD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-15.md)
+6. [Read: 05 - Putting it all together](https://github.com/wpiao/reading-notes/blob/main/code-301/read-05.md)
+7. [Read: 06 - Node.js](https://github.com/wpiao/reading-notes/blob/main/code-301/read-06.md)
+8. [Read: 07 - REST](https://github.com/wpiao/reading-notes/blob/main/code-301/read-07.md)
+9. [Read: 08 - APIs](https://github.com/wpiao/reading-notes/blob/main/code-301/read-08.md)
+10. [Read: 09 - Functional Programming](https://github.com/wpiao/reading-notes/blob/main/code-301/read-09.md)
+11. [Read: 10 - In memory storage](https://github.com/wpiao/reading-notes/blob/main/code-301/read-10.md)
+12. [Read: 11 - Authentication](https://github.com/wpiao/reading-notes/blob/main/code-301/read-11.md)
+13. [Read: 12 - Mongo and Mongoose](https://github.com/wpiao/reading-notes/blob/main/code-301/read-12.md)
+14. [Read: 13 - CRUD](https://github.com/wpiao/reading-notes/blob/main/code-301/read-13.md)
 
 ## Code 201 - Foundations of Software Development
 
