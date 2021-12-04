@@ -4,7 +4,8 @@
 
 ## Code 401 - Advanced Software Development in Python
 
-1. [Read: 01 - Big O Notation](https://github.com/wpiao/reading-notes/blob/main/code-401-python/read-01.md)
+1. [The Growth Mindset](https://github.com/wpiao/reading-notes/blob/main/code-401-python/The-growth-mindset.md)
+2. [Read: 01 - Big O Notation](https://github.com/wpiao/reading-notes/blob/main/code-401-python/read-01.md)
 
 ## Code 301 - Intermediate Software Development
 
