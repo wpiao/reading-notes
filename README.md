@@ -2,6 +2,10 @@
 
 **This repository is the notes for reading assignments.**
 
+## Code 401 - Advanced Software Development in Python
+
+1. [Read: 01 - Big O Notation](https://github.com/wpiao/reading-notes/blob/main/code-401-python/read-01.md)
+
 ## Code 301 - Intermediate Software Development
 
 1. [ES6 classes](https://github.com/wpiao/reading-notes/blob/main/code-301/ES6-classes.md)
