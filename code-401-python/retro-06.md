@@ -1,0 +1,3 @@
+# Retro: 06 - Game of Greed I - 12/23/2021
+
+Lab 06 went well. The lab instructions are very clear and it tells us what methods we need to write and what the methods does. My partner and I finished the lab without any blockers. The one thing I want to point out is that the game rule in the wiki is different than the one in the test. And there is no explanation about rules in the test. We first created the score tables based on the wiki and it failed test. And then we looked at the test and found out the scoring matric is different. I hope there is one standard score rule in the lab instructions so that we don't get confused.
