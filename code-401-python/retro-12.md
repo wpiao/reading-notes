@@ -1,0 +1,4 @@
+# Retro: 12 - Panda and animal shelter - 01/20/2022
+
+Panda is very powerful data analysis tool, we just scratched the surface and played with some methods. I took look at its offical docs and I was amazed about what it can do and also overwhelmed by its number of functionalities. There is no way to master its all functions in a short time unless you use panda a lot in daily work. One hard thing for me about panda is the syntax, it is hard to find the pattern. It takes time to get used to it.
+Animal shelter code challenge went well. Since it didn't specify the requirements how to implement it, I just made AnimalShelter class subclass of Queue class. I inherit `__init__` and `enqueue` method from Queue class and override the `dequeue` method. I covered a lot of edge cases and wrote unit tests and passed all the tests.
