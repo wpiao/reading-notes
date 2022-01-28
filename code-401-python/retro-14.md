@@ -1,0 +1,3 @@
+# Retro 14: Data visualization - 01/27/2022
+
+I was introduced to `seaborn` in this lab. It's another python data visualization library like `matplotlib`. `seaborn` takes pandas data frame as data, on the other hand `matplotlib` needs some data transformation to consume the data. Both libraries are very powerful tools for data visualization and they come with a lot of useful functions. We just scratch to surface which is enough for the introduction. Code challenge 14 went well. For my problem domain, I have never heard `duck duck goose` before. So it wasn't easy to understand it in the beginning, but after I was shown with the example input and output, it was easy to understand and implement it. I used `Queue` to implement the solution for this code challenge.
