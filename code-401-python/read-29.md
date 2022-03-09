@@ -1,5 +1,6 @@
 # Read: 29 - Django Custom User - 03/08/2022
 
+- [Django customer user model](https://learndjango.com/tutorials/django-custom-user-model)
 - AbstractUser vs AbstractBaseUser
   We can subclass both of them to extend existing functionality however `AbstractBaseUser` requires much, much more work. `AbstractUser` is a subclass of `AbstractBaseUser` that provides more default configuration.
 - 4 steps to create a custom user model
